@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main Menu Icon-->
+    <declare-styleable name="MenuIcon">
+        <attr name="icon" format="reference"/>
+        <attr name="usrType" format="reference|string"/>
+    </declare-styleable>
+
+</resources>
